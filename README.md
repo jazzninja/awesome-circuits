@@ -59,3 +59,4 @@ Also update the README.md to include the title of circuit in the proper subsecti
 ### List of Contributors
 * [Xndr7](https://www.github.com/Xndr7)
 * [kburk1997](https://www.github.com/kburk1997)
+* [jazzninja](https://github.com/jazzninja)
