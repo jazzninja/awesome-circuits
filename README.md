@@ -24,7 +24,8 @@ This folder contains many applications and configurations of operational amplifi
 ## Digital Circuits
 
 
-**ADD CONTENT AS REQUIRED**
+### Digital Logic Circuits
+This folder contains many applications and configurations of digital logic circuits.
 
 
 <a name="Mixed-Signal-Circuits"></a>
